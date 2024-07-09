@@ -1,0 +1,6 @@
+.idea
+/apps/frontend/node_modules
+/apps/frontend/package-lock.json
+/apps/backend/tmp
+/apps/frontend/.next
+node_modules

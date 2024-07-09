@@ -1,0 +1,16 @@
+{
+  "name": "monorepo-adonis-react",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "concurrently \"npx pnpm --filter frontend dev\" \"npx pnpm --filter backend dev\"",
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
