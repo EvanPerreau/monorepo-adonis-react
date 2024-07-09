@@ -35,7 +35,7 @@ ren apps/backend/.env.example apps/backend/.env
 ### Ready to go
 
 ```
-npm run dev
+npm run start
 ```
 
 ---
